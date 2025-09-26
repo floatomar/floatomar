@@ -58,12 +58,12 @@ I'm a **Grad Student🎓 [@ The Applied Science University 🅾️](https://www.
 
 <!-- Databases -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mssql/mssql.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
 
 <!-- Python & Libraries -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code>
 
 <!-- Others -->
