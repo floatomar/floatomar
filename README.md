@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/floatomar)](https://github.com/floatomar) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/omarabdulmajeed)](https://www.linkedin.com/in/omarabdulmajeed) 
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:omar-abdulmajeed@outlook.sa)](mailto:omar-abdulmajeed@outlook.sa) 
-[![Indeed](https://img.shields.io/badge/-Indeed-2164F3?style=flat-square&logo=Indeed&logoColor=white&link=https://profile.indeed.com/p/omara-93w50t3)
+[![Indeed](https://img.shields.io/badge/-Indeed-2164F3?style=flat-square&logo=Indeed&logoColor=white&link=https://profile.indeed.com/p/omara-93w50t3)](https://profile.indeed.com/p/omara-93w50t3)
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
