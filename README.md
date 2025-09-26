@@ -74,9 +74,18 @@ I'm a **Grad Student🎓 [@ The Applied Science University](https://www.asu.edu.
 ### 🚀 Quick Stats
 
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=floatomar&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-<!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
+### Hi there 👋
+
+I'm a passionate developer focused on building clean, scalable, and efficient solutions.
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=floatomar&show_icons=true&hide_rank=true&line_height=21&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floatomar&layout=compact&theme=react)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=floatomar&theme=react)
+
 </p>
 
 
