@@ -41,7 +41,7 @@ I'm a **Grad Student🎓 [@ The Applied Science University 🅾️](https://www.
 <code><img src="https://img.shields.io/badge/Visual%20Studio-555555?style=flat-square&logo=visual-studio&logoColor=5C2D91"></code> 
 <code><img src="https://img.shields.io/badge/Anaconda-555555.svg?&style=flat-square&logo=anaconda&logoColor=44A833"></code> 
 <code><img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"></code> 
-<img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"></code> 
+<code><img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"></code> 
 <code><img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"></code> 
 
 
