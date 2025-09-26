@@ -63,7 +63,7 @@ I'm a **Grad Student🎓 [@ The Applied Science University 🅾️](https://www.
 
 <!-- Python & Libraries -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
+<code><img height="30" src="https://pandas.pydata.org/static/img/pandas_white.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code>
 
 <!-- Others -->
