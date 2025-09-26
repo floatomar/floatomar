@@ -35,59 +35,15 @@ I'm a **Grad Student🎓 [@ The Applied Science University 🅾️](https://www.
 
 🎉 Fun Fact: I’m a big space & Sci-Fi geek 🌌🎬
 ### 🖥️ My Dev Setup
-<img src="https://img.shields.io/badge/Custom-PC-555555?style=flat-square&logo=pcgaming&logoColor=white"> 
-<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> 
-<img src="https://img.shields.io/badge/VS%20Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> 
-<img src="https://img.shields.io/badge/Visual%20Studio-555555?style=flat-square&logo=visual-studio&logoColor=5C2D91"> 
-<img src="https://img.shields.io/badge/Anaconda-555555.svg?&style=flat-square&logo=anaconda&logoColor=44A833"> 
-<img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> 
-<img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> 
-<img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+<code><img src="https://img.shields.io/badge/Custom-PC-555555?style=flat-square&logo=pcgaming&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"></code>
+<code><img src="https://img.shields.io/badge/VS%20Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"></code> 
+<code><img src="https://img.shields.io/badge/Visual%20Studio-555555?style=flat-square&logo=visual-studio&logoColor=5C2D91"></code> 
+<code><img src="https://img.shields.io/badge/Anaconda-555555.svg?&style=flat-square&logo=anaconda&logoColor=44A833"></code> 
+<code><img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"></code> 
+<img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"></code> 
+<code><img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"></code> 
 
-### ⚙️ Tools & Technologies I Use
-
-<!-- Web Development -->
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"><br>
-
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"><br>
-
-<!-- Databases -->
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mssql/mssql.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"><br>
-
-<!-- Python & Libraries -->
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"><br>
-
-<!-- Others -->
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png">
-
-### ⚙️ Tools & Technologies I Use
-
-<img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4">
-<img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4">
-<img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4">
-<img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4">
-<img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4">
-<img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4">
-<img height="30" src="https://avatars.githubusercontent.com/u/15658638">
-<img height="30" src="https://avatars.githubusercontent.com/u/34455048">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
-<img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4">
 
 ### ⚙️ Tools & Technologies I Use  
 
