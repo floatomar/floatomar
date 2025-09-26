@@ -44,31 +44,56 @@ I'm a **Grad Student🎓 [@ The Applied Science University 🅾️](https://www.
 <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> 
 <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
-### ⚙️ Tools & Technologies I Use  
+### ⚙️ Tools & Technologies I Use
 
 <!-- Web Development -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></code>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"><br>
+
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"><br>
 
 <!-- Databases -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mssql/mssql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mssql/mssql.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"><br>
 
 <!-- Python & Libraries -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"><br>
 
 <!-- Others -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png"></code>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png">
+
+### ⚙️ Tools & Technologies I Use
+
+**Web:**  
+![HTML](https://raw.githubusercontent.com/github/explore/master/topics/html/html.png) 
+![CSS](https://raw.githubusercontent.com/github/explore/master/topics/css/css.png) 
+![JS](https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png) 
+![React](https://raw.githubusercontent.com/github/explore/master/topics/react/react.png) 
+![Node.js](https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png)  
+
+**Databases:**  
+![MySQL](https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png) 
+![MS SQL](https://raw.githubusercontent.com/github/explore/master/topics/mssql/mssql.png) 
+![Firebase](https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png)  
+
+**Python & Libraries:**  
+![Python](https://raw.githubusercontent.com/github/explore/master/topics/python/python.png) 
+![Pandas](https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png) 
+![OpenCV](https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png)  
+
+**Others:**  
+![Git](https://raw.githubusercontent.com/github/explore/master/topics/git/git.png) 
+![GitHub](https://raw.githubusercontent.com/github/explore/master/topics/github/github.png) 
+![Raspberry Pi](https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png)  
 
 
 
