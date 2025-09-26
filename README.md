@@ -73,29 +73,47 @@ I'm a **Grad Student🎓 [@ The Applied Science University 🅾️](https://www.
 
 ### ⚙️ Tools & Technologies I Use
 
-**Web:**  
-![HTML](https://raw.githubusercontent.com/github/explore/master/topics/html/html.png) 
-![CSS](https://raw.githubusercontent.com/github/explore/master/topics/css/css.png) 
-![JS](https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png) 
-![React](https://raw.githubusercontent.com/github/explore/master/topics/react/react.png) 
-![Node.js](https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png)  
+<img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4">
+<img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4">
+<img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4">
+<img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4">
+<img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4">
+<img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4">
+<img height="30" src="https://avatars.githubusercontent.com/u/15658638">
+<img height="30" src="https://avatars.githubusercontent.com/u/34455048">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
+<img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4">
 
-**Databases:**  
-![MySQL](https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png) 
-![MS SQL](https://raw.githubusercontent.com/github/explore/master/topics/mssql/mssql.png) 
-![Firebase](https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png)  
+### ⚙️ Tools & Technologies I Use  
 
-**Python & Libraries:**  
-![Python](https://raw.githubusercontent.com/github/explore/master/topics/python/python.png) 
-![Pandas](https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png) 
-![OpenCV](https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png)  
+<!-- Web Development -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></code>
 
-**Others:**  
-![Git](https://raw.githubusercontent.com/github/explore/master/topics/git/git.png) 
-![GitHub](https://raw.githubusercontent.com/github/explore/master/topics/github/github.png) 
-![Raspberry Pi](https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png)  
+<!-- Databases -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mssql/mssql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
 
+<!-- Python & Libraries -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code>
 
+<!-- Others -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png"></code>
 
 ### 🚀 Quick Stats
 <p align="center">
