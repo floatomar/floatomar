@@ -1,5 +1,7 @@
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Howdy!, I am <a href="https://github.com/floatomar">Omar</a> </h1>
+
+<img src="https://github.com/floatomar/floatomar/blob/316c9c3fce63edcfbffd4d03b16a58d21582cab0/omar_banner.gif"> 
+
+<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><h1>Howdy!, I am <a href="https://github.com/floatomar">Omar</a> </h1>
 </h1>
 
 ### 📬 Find me at
