@@ -1,5 +1,5 @@
 
-<img src="https://github.com/floatomar/floatomar/blob/316c9c3fce63edcfbffd4d03b16a58d21582cab0/omar_banner.gif"> 
+<img src="https://github.com/floatomar/floatomar/blob/52a0ac1585fff6cdd940b1a07b7ff984173f252b/omar_banner.svg" width="800"> 
 <h1>Howdy!, I am <a href="https://github.com/floatomar">Omar</a> </h1>
 </h1>
 
