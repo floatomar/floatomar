@@ -49,6 +49,7 @@
     <path id="r-arm" d="M323.11,63.78A38.89 38.89 0 0 1 393.99,41.66L377.63,52.97A19 19 0 0 0 343,63.78Z"/>
     <mask id="mask-r-arm" maskUnits="userSpaceOnUse" x="-10" y="-10" width="420" height="126"><path class="d k16" stroke-width="25" pathLength="1" d="M333.06,63.78A28.95 28.95 0 0 1 388.84,52.94"/></mask>
   </defs>
+  <rect x="-60" y="-67.25" width="520" height="240.5" fill="#fff"/>
   <g>
     <path class="g k17" pathLength="1" d="M110.25,-30V136"/>
     <path class="g k18" pathLength="1" d="M304.2,136V-30"/>
